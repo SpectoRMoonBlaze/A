@@ -1,0 +1,317 @@
+@media (min-width: 919px) and (max-width: 1280px) {
+
+
+body{
+	background: url(1.jpeg);
+-webkit-background-size: cover;
+	background-size: cover;
+	background-attachment: fixed;
+	font-family: sans-serif;
+	font-family: 'Permanent Marker', cursive;
+}
+
+.block1{
+  	position: absolute;
+	top: 20%;
+	left: 10%;
+	transform: translate(-50%,-50%);
+}
+
+.block2{
+  	position: absolute;
+	top: 20%;
+	left:50%;
+	transform: translate(-50%,-50%);
+}
+
+.block3{
+  	position: absolute;
+	top: 20%;
+	left:90%;
+	transform: translate(-50%,-50%);
+}
+
+.block4{
+	border: 1px solid white;
+	border-radius: 20px;
+	height: 100px;
+	background: rgba(110,110,110,.2);
+}
+a{
+	text-decoration: none;
+
+	color: white;
+}
+.block6{
+	position: absolute;
+	top: 50%;
+	right: 20%;
+}
+.block7{
+	position: absolute;
+	top: 90%;
+}
+
+.block8{
+	position: absolute;
+	top:140%;
+}
+
+.block9{
+	position: absolute;
+	top: 130%;
+}
+.block12{
+	position: absolute;
+	top: 190px;
+	right: 700px;
+}
+
+.block13{
+	position: absolute;
+	top: 350px;
+	left: 650px;
+	height: 600px;
+}
+
+.block14{
+	size:300px;
+position: absolute;
+top: 420px;
+left: 600px;
+height: 380px;
+}
+
+.block15{
+	font-size: 100px;
+position: absolute;
+right: 10%;
+top: 130%;
+outline: 10px white;
+}
+
+.block16{
+	height: 500px;
+position: absolute;
+top: 110%;
+
+}
+
+.block17{
+	height: 500px;
+	position: absolute;
+	left: 50%;
+	top: 175%;
+}
+
+.block18{
+	font-size: 100px;
+	position: absolute;
+	left: 13%;
+	top: 195%;
+}
+.block19{
+	width: 1890px;
+	height:1px;
+	background: white;
+	position: absolute;
+	top: 230%;
+}
+
+.block20{
+	size: 200px;
+	position: absolute;
+	top: 230%;
+	left: 50%;
+}
+
+.block21{
+	size: 200px;
+	position: absolute;
+	top: 235%;
+	left: 50%;
+}
+
+.block65{
+	position: absolute;
+	top: 50%;
+}
+
+.block1211{
+	position: absolute;
+	top: 100px;
+}
+.blockk{
+	position: absolute;
+	top: 59%;
+	left: 3%;
+}
+
+.blockk1{
+	position: absolute;
+	top: 59%;
+	left: 75%;
+}
+}
+
+
+
+@media (min-width: 1920px) and (max-width: 1920px) {
+
+
+body{
+	background: url(1.jpeg);
+-webkit-background-size: cover;
+	background-size: cover;
+	background-attachment: fixed;
+	font-family: sans-serif;
+	font-family: 'Permanent Marker', cursive;
+}
+
+.block1{
+  	position: absolute;
+	top: 20%;
+	left: 10%;
+	transform: translate(-50%,-50%);
+}
+
+.block2{
+  	position: absolute;
+	top: 20%;
+	left:50%;
+	transform: translate(-50%,-50%);
+}
+
+.block3{
+  	position: absolute;
+	top: 20%;
+	left:90%;
+	transform: translate(-50%,-50%);
+}
+
+.block4{
+	border: 1px solid white;
+	border-radius: 20px;
+	height: 100px;
+	background: rgba(110,110,110,.2);
+}
+a{
+	text-decoration: none;
+
+	color: white;
+}
+.block6{
+	position: absolute;
+	top: 50%;
+	right: 20%;
+}
+.block7{
+	position: absolute;
+	top: 90%;
+}
+
+.block8{
+	position: absolute;
+	top:140%;
+}
+
+.block9{
+	position: absolute;
+	top: 130%;
+}
+.block12{
+	position: absolute;
+	top: 190px;
+	right: 700px;
+}
+
+.block13{
+	position: absolute;
+	top: 350px;
+	right: 33%;
+	height: 600px;
+}
+
+.block14{
+size:200px;
+position: absolute;
+top: 420px;
+right: 35%;
+height: 300px;
+}
+
+.block15{
+	font-size: 70px;
+position: absolute;
+right: 10%;
+top: 125%;
+outline: 10px white;
+}
+
+.block16{
+	height: 300px;
+position: absolute;
+top: 110%;
+left: 3%;
+
+}
+
+.block17{
+	height: 300px;
+	position: absolute;
+	left: 60%;
+	top: 175%;
+}
+
+.block18{
+	font-size: 100px;
+	position: absolute;
+	left: 13%;
+	top: 185%;
+}
+.block19{
+	width: 1650px;
+	height:1px;
+	background: white;
+	position: absolute;
+	top: 230%;
+}
+
+.block20{
+	size: 200px;
+	position: absolute;
+	top: 230%;
+	left: 50%;
+}
+
+.block21{
+	size: 200px;
+	position: absolute;
+	top: 235%;
+	left: 50%;
+}
+
+.block65{
+	position: absolute;
+	top: 50%;
+}
+
+.block1211{
+	position: absolute;
+	top: 100px;
+}
+.blockk{
+	font-size: 20px;
+	position: absolute;
+	top: 59%;
+	left: 3%;
+}
+
+.blockk1{
+	font-size: 20px;
+	position: absolute;
+	top: 59%;
+	left: 80%;
+}
+}
+
